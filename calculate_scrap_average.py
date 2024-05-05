@@ -2,7 +2,7 @@ import random
 import time
 import statistics
 
-import moon_lists
+import excel
 
 
 def main():
@@ -11,9 +11,11 @@ def main():
 
     # pick which moon to gather data on based off of three character shorthands
     # (First three letters of the moon)
-    moon = "art"
+    moon = "ass"
     print(moon)
-    moon_to_use = moon_lists.pick_moon(moon)
+    version = "v50"
+    print(version)
+    moon_to_use = excel.get_moon(moon, version)
 
     # move lists from moon_to_use into their own lists / better names
     moon_items = moon_to_use[0]
@@ -64,6 +66,7 @@ def main():
     print('Average scrap value: ' + str(total_scrap_total_average))
     print('Standard Deviation: ' + str(total_scrap_total_stdev))
 
+    # print time program took to run
     print('Computation time: ' + str(time.time() - start_time) + ' seconds')
 
 
