@@ -1,5 +1,6 @@
 import random
 import time
+import statistics
 
 import moon_lists
 
@@ -9,14 +10,16 @@ def main():
     start_time = time.time()
 
     # pick which moon to gather data on based off of three character shorthands
-    moon_to_use = moon_lists.pick_moon("art")
+    # (First three letters of the moon)
+    moon = "art"
+    print(moon)
+    moon_to_use = moon_lists.pick_moon(moon)
 
     # move lists from moon_to_use into their own lists / better names
     moon_items = moon_to_use[0]
     moon_weights = moon_to_use[1]
     moon_scrapamounts = moon_to_use[2]
     moon_values = moon_to_use[3]
-
 
     # number of theoretical runs of scrap
     number_of_runs = 10000000
@@ -26,7 +29,6 @@ def main():
 
     # all scrap from total_scrap added together
     total_scrap_total = 0
-
 
     for i in range(number_of_runs):
 
@@ -54,20 +56,16 @@ def main():
         # adds each moons total scrap amount to total_scrap
         total_scrap.append(individual_scrap_total)
 
-    # adds scrap from all planets into one total to be used in calculating the average
-    for i in range(len(total_scrap)):
-
-        # adds numbers from total_scrap into one sum
-        total_scrap_total += total_scrap[i]
-
-    # finds average for all scrap from every run
-    total_scrap_total_average = total_scrap_total / number_of_runs
+    # finds average and stdev for all scrap from every run
+    total_scrap_total_average = statistics.mean(total_scrap)
+    total_scrap_total_stdev = statistics.stdev(total_scrap)
 
     # print the average scrap
-    print(total_scrap_total_average)
-    print(time.time() - start_time)
+    print('Average scrap value: ' + str(total_scrap_total_average))
+    print('Standard Deviation: ' + str(total_scrap_total_stdev))
+
+    print('Computation time: ' + str(time.time() - start_time) + ' seconds')
+
 
 if __name__ == "__main__":
     main()
-
-
