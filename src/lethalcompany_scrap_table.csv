@@ -1,0 +1,337 @@
+Item,Chance,Value,Moon
+V-Type Engine,0.1582,38,exp
+Metal Sheet,0.1547,16,exp
+Large Bolt,0.1406,26,exp
+Large Axle,0.1406,46,exp
+Flask,0.0738,30,exp
+Steering Wheel,0.0562,24,exp
+Dustpan,0.0562,22,exp
+Homemade Flashbang,0.0387,19,exp
+Bottles,0.0334,50,exp
+Gift,0.0299,20,exp
+Plastic Fish,0.0211,34,exp
+Jar of Pickles,0.0176,46,exp
+Egg Beater,0.0176,28,exp
+Yield Sign,0.0105,27,exp
+Easter Egg,0.0088,37,exp
+Cookie Mold Pan,0.0088,26,exp
+Laser Pointer,0.007,66,exp
+Air Horn,0.0053,62,exp
+Cash Register,0.0053,120,exp
+Wedding Ring,0.0053,66,exp
+Clown Horn,0.0053,62,exp
+Candy,0.0035,21,exp
+Gold Bar,0.0018,156,exp
+Bottles,0.1494,50,ass
+Large Bolt,0.0794,26,ass
+Cookie Mold Pan,0.0659,26,ass
+V-Type Engine,0.0538,38,ass
+Egg Beater,0.0458,28,ass
+Stop Sign,0.0458,36,ass
+Easter Egg,0.0431,37,ass
+Tea Kettle,0.0431,44,ass
+Toy Cube,0.0417,34,ass
+Large Axle,0.0404,46,ass
+Hair Brush,0.035,22,ass
+Metal Sheet,0.031,16,ass
+Jar of Pickles,0.0269,46,ass
+Steering Wheel,0.0256,24,ass
+Magnifying Glass,0.0229,52,ass
+Yield Sign,0.0229,27,ass
+Brass Bell,0.0215,64,ass
+Homemade Flashbang,0.0188,19,ass
+Remote,0.0175,34,ass
+Gift,0.0175,20,ass
+Flask,0.0162,30,ass
+Red Soda,0.0162,54,ass
+Coffee Mug,0.0162,46,ass
+Whoopie Cushion,0.0148,21,ass
+Plastic Fish,0.0135,34,ass
+Clown Horn,0.0135,62,ass
+Air Horn,0.0135,62,ass
+Laser Pointer,0.0108,66,ass
+Old Phone,0.0094,56,ass
+Robot Toy,0.0081,72,ass
+Comedy Mask,0.0067,40,ass
+Hairdryer,0.0054,80,ass
+Cash Register,0.004,120,ass
+Tragedy Mask,0.004,40,ass
+Bottles,0.0879,50,vow
+Egg Beater,0.06,28,vow
+Whoopie Cushion,0.0525,21,vow
+Cookie Mold Pan,0.0525,26,vow
+Flask,0.0525,30,vow
+Hair Brush,0.0493,22,vow
+Chemical Jug,0.0493,58,vow
+Stop Sign,0.0429,36,vow
+Tea Kettle,0.0429,44,vow
+Clown Horn,0.0375,62,vow
+Brass Bell,0.0354,64,vow
+Large Bolt,0.0332,26,vow
+V-Type Engine,0.0332,38,vow
+Large Axle,0.0322,46,vow
+Plastic Fish,0.0322,34,vow
+Easter Egg,0.03,37,vow
+Jar of Pickles,0.0289,46,vow
+Rubber Duckie,0.0257,51,vow
+Gift,0.0225,20,vow
+Magnifying Glass,0.0225,52,vow
+Remote,0.0204,34,vow
+Coffee Mug,0.0193,46,vow
+Steering Wheel,0.0182,24,vow
+Toy Cube,0.0182,34,vow
+Yield Sign,0.0171,27,vow
+Metal Sheet,0.0171,16,vow
+Homemade Flashbang,0.015,19,vow
+Red Soda,0.0129,54,vow
+Air Horn,0.0107,62,vow
+Laser Pointer,0.0086,66,vow
+Old Phone,0.0075,56,vow
+Robot Toy,0.0064,72,vow
+Cash Register,0.0054,120,vow
+Large Axle,0.132,46,off
+Large Bolt,0.125,26,off
+V-Type Engine,0.1124,38,off
+Metal Sheet,0.0913,16,off
+Bottles,0.0646,50,off
+Flask,0.0562,30,off
+Yield Sign,0.0393,27,off
+Plastic Fish,0.0393,34,off
+Stop Sign,0.0379,36,off
+Tea Kettle,0.0337,44,off
+Magnifying Glass,0.0281,52,off
+Gift,0.0267,20,off
+Easter Egg,0.0267,37,off
+Clown Horn,0.0253,62,off
+Toy Cube,0.0253,34,off
+Remote,0.0211,34,off
+Air Horn,0.0211,62,off
+Homemade Flashbang,0.0183,19,off
+Teeth,0.0154,72,off
+Laser Pointer,0.014,66,off
+Comedy Mask,0.014,40,off
+Robot Toy,0.0126,72,off
+Old Phone,0.0112,56,off
+Cookie Mold Pan,0.0084,26,off
+Large Bolt,0.1165,26,mar
+Metal Sheet,0.1086,16,mar
+Large Axle,0.1008,46,mar
+V-Type Engine,0.0942,38,mar
+Bottles,0.0877,50,mar
+Easter Egg,0.0851,37,mar
+Clown Horn,0.0563,62,mar
+Flask,0.055,30,mar
+Air Horn,0.0445,62,mar
+Stop Sign,0.038,36,mar
+Plastic Fish,0.0366,34,mar
+Tea Kettle,0.0314,44,mar
+Gift,0.0314,20,mar
+Cookie Mold Pan,0.0314,26,mar
+Toy Cube,0.0236,34,mar
+Remote,0.0209,34,mar
+Yield Sign,0.0105,27,mar
+Magnifying Glass,0.0052,52,mar
+Gold Bar,0.0052,156,mar
+Candy,0.0039,21,mar
+Laser Pointer,0.0039,66,mar
+Cash Register,0.0039,120,mar
+Red Soda,0.0026,54,mar
+Robot Toy,0.0026,72,mar
+Easter Egg,0.081,37,ada
+Bottles,0.0775,50,ada
+Egg Beater,0.057,28,ada
+Hair Brush,0.0525,22,ada
+Chemical Jug,0.0468,58,ada
+Stop Sign,0.0456,36,ada
+V-Type Engine,0.0456,38,ada
+Cookie Mold Pan,0.0456,26,ada
+Brass Bell,0.0422,64,ada
+Plastic Fish,0.0365,34,ada
+Tea Kettle,0.0365,44,ada
+Large Bolt,0.0353,26,ada
+Flask,0.0342,30,ada
+Large Axle,0.0342,46,ada
+Rubber Duckie,0.0285,51,ada
+Remote,0.0274,34,ada
+Gift,0.0262,20,ada
+Magnifying Glass,0.0239,52,ada
+Homemade Flashbang,0.0239,19,ada
+Whoopie Cushion,0.0228,21,ada
+Jar of Pickles,0.0228,46,ada
+Toy Cube,0.0194,34,ada
+Metal Sheet,0.0182,16,ada
+Yield Sign,0.0182,27,ada
+Air Horn,0.0148,62,ada
+Steering Wheel,0.0137,24,ada
+Red Soda,0.0137,54,ada
+Coffee Mug,0.0137,46,ada
+Robot Toy,0.0103,72,ada
+Clown Horn,0.0103,62,ada
+Laser Pointer,0.0091,66,ada
+Cash Register,0.008,120,ada
+Old Phone,0.0046,56,ada
+Easter Egg,0.0636,37,ren
+Painting,0.0625,92,ren
+Comedy Mask,0.0592,40,ren
+Fancy Lamp,0.0547,94,ren
+Brass Bell,0.0536,64,ren
+Robot Toy,0.0513,72,ren
+Bottles,0.0513,50,ren
+Coffee Mug,0.0491,46,ren
+Hairdryer,0.048,80,ren
+Magnifying Glass,0.0391,52,ren
+Toy Cube,0.0368,34,ren
+Teeth,0.0346,72,ren
+Perfume Bottle,0.0312,76,ren
+Red Soda,0.029,54,ren
+Tea Kettle,0.0279,44,ren
+Tragedy Mask,0.0279,40,ren
+Hair Brush,0.0279,22,ren
+Toothpaste,0.0268,31,ren
+Golden Cup,0.0268,60,ren
+Magic 7 Ball,0.0257,54,ren
+Wedding Ring,0.0212,66,ren
+Gift,0.0212,20,ren
+Old Phone,0.019,56,ren
+Cash Register,0.0179,120,ren
+Plastic Fish,0.0179,34,ren
+Rubber Duckie,0.0179,51,ren
+Candy,0.0167,21,ren
+Air Horn,0.0089,62,ren
+Clown Horn,0.0089,62,ren
+Laser Pointer,0.0056,66,ren
+Pill Bottle,0.0045,28,ren
+Large Bolt,0.0045,26,ren
+Jar of Pickles,0.0045,46,ren
+Large Axle,0.0022,46,ren
+V-Type Engine,0.0022,38,ren
+Fancy Lamp,0.0536,94,din
+Red Soda,0.0497,54,din
+Candy,0.0497,21,din
+Brass Bell,0.0477,64,din
+Comedy Mask,0.0467,40,din
+Coffee Mug,0.0437,46,din
+Easter Egg,0.0437,37,din
+Teeth,0.0437,72,din
+Tea Kettle,0.0427,44,din
+Toothpaste,0.0407,31,din
+Golden Cup,0.0357,60,din
+Painting,0.0348,92,din
+Perfume Bottle,0.0338,76,din
+Toy Cube,0.0328,34,din
+Magic 7 Ball,0.0298,54,din
+Bottles,0.0298,50,din
+Tragedy Mask,0.0298,40,din
+Robot Toy,0.0258,72,din
+Wedding Ring,0.0258,66,din
+Hairdryer,0.0218,80,din
+Hair Brush,0.0218,22,din
+Cash Register,0.0218,120,din
+Homemade Flashbang,0.0199,19,din
+Rubber Duckie,0.0179,51,din
+Whoopie Cushion,0.0179,21,din
+Clown Horn,0.0169,62,din
+Air Horn,0.0159,62,din
+Large Axle,0.0149,46,din
+V-Type Engine,0.0139,38,din
+Magnifying Glass,0.0139,52,din
+Pill Bottle,0.0139,28,din
+Jar of Pickles,0.0129,46,din
+Old Phone,0.0119,56,din
+Gift,0.0109,20,din
+Laser Pointer,0.005,66,din
+Plastic Fish,0.005,34,din
+Large Bolt,0.004,26,din
+Large Bolt,0.0521,26,tit
+Tragedy Mask,0.051,40,tit
+Comedy Mask,0.0477,40,tit
+V-Type Engine,0.0443,38,tit
+Red Soda,0.0421,54,tit
+Brass Bell,0.041,64,tit
+Large Axle,0.041,46,tit
+Toothpaste,0.0399,31,tit
+Robot Toy,0.0388,72,tit
+Painting,0.0377,92,tit
+Bottles,0.0366,50,tit
+Hair Brush,0.0344,22,tit
+Tea Kettle,0.0333,44,tit
+Hairdryer,0.0333,80,tit
+Fancy Lamp,0.0299,94,tit
+Golden Cup,0.0299,60,tit
+Wedding Ring,0.0299,66,tit
+Whoopie Cushion,0.0288,21,tit
+Magnifying Glass,0.0277,52,tit
+Air Horn,0.0266,62,tit
+Rubber Duckie,0.0266,51,tit
+Old Phone,0.0244,56,tit
+Coffee Mug,0.0233,46,tit
+Teeth,0.0233,72,tit
+Toy Cube,0.0222,34,tit
+Gift,0.0188,20,tit
+Magic 7 Ball,0.0177,54,tit
+Clown Horn,0.0177,62,tit
+Plastic Fish,0.0177,34,tit
+Pill Bottle,0.0166,28,tit
+Perfume Bottle,0.0155,76,tit
+Laser Pointer,0.0111,66,tit
+Homemade Flashbang,0.01,19,tit
+Jar of Pickles,0.0089,46,tit
+Metal Sheet,0.1261,16,emb
+Easter Egg,0.116,37,emb
+Large Axle,0.1021,46,emb
+V-Type Engine,0.1009,38,emb
+Large Bolt,0.0832,26,emb
+Cookie Mold Pan,0.0656,26,emb
+Bottles,0.0656,50,emb
+Robot Toy,0.0542,72,emb
+Stop Sign,0.0353,36,emb
+Plastic Fish,0.0353,34,emb
+Remote,0.0353,34,emb
+Air Horn,0.029,62,emb
+Tea Kettle,0.029,44,emb
+Clown Horn,0.0227,62,emb
+Gift,0.0214,20,emb
+Toy Cube,0.0164,34,emb
+Homemade Flashbang,0.0151,19,emb
+Yield Sign,0.0151,27,emb
+Old Phone,0.0101,56,emb
+Magnifying Glass,0.0076,52,emb
+Laser Pointer,0.0076,66,emb
+Teeth,0.0063,72,emb
+Robot Toy,0.0522,72,art
+Painting,0.0506,92,art
+Rubber Duckie,0.0489,51,art
+Brass Bell,0.0457,64,art
+Hairdryer,0.0449,80,art
+Golden Cup,0.0449,60,art
+Fancy Lamp,0.0432,94,art
+Tragedy Mask,0.0432,40,art
+Comedy Mask,0.0416,40,art
+Whoopie Cushion,0.0351,21,art
+Toothpaste,0.0343,31,art
+Wedding Ring,0.0343,66,art
+Magnifying Glass,0.0343,52,art
+Air Horn,0.0318,62,art
+Gold Bar,0.0294,156,art
+Jar of Pickles,0.0269,46,art
+Large Axle,0.0253,46,art
+Clown Horn,0.0253,62,art
+Magic 7 Ball,0.0245,54,art
+Tea Kettle,0.0245,44,art
+V-Type Engine,0.0245,38,art
+Teeth,0.022,72,art
+Large Bolt,0.0212,26,art
+Cash Register,0.0212,120,art
+Old Phone,0.0204,56,art
+Toy Cube,0.0163,34,art
+Red Soda,0.0163,54,art
+Easter Egg,0.0155,37,art
+Hair Brush,0.0131,22,art
+Plastic Fish,0.0131,34,art
+Bottles,0.0131,50,art
+Pill Bottle,0.0122,28,art
+Gift,0.0122,20,art
+Perfume Bottle,0.0114,76,art
+Homemade Flashbang,0.0106,19,art
+Coffee Mug,0.0082,46,art
+Laser Pointer,0.0082,66,art

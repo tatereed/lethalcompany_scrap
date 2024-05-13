@@ -1,0 +1,9 @@
+[package]
+name = "scrap-rust-testing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.3.0"
+meansd = "2.1.0"
+rand = "0.8.5"
